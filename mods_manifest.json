@@ -1,0 +1,69 @@
+{
+    "mods":
+    {
+        "CBA_A3": "http://steamcommunity.com/sharedfiles/filedetails/?id=450814997",
+        "CUP Weapons": "http://steamcommunity.com/sharedfiles/filedetails/?id=497660133",
+        "CUP Units": "http://steamcommunity.com/sharedfiles/filedetails/?id=497661914",
+        "ace": "http://steamcommunity.com/sharedfiles/filedetails/?id=463939057",
+        "CUP Vehicles": "http://steamcommunity.com/sharedfiles/filedetails/?id=541888371",
+        "ACRE2": "http://steamcommunity.com/sharedfiles/filedetails/?id=751965892",
+        "ALiVE": "http://steamcommunity.com/sharedfiles/filedetails/?id=620260972",
+        "cTab V2.2.1": "http://steamcommunity.com/sharedfiles/filedetails/?id=871504836",
+        "CUP ACE3 Compatibility Addon - Vehicles": "http://steamcommunity.com/sharedfiles/filedetails/?id=621650475",
+        "CUP ACE3 Compatibility Addon - Weapons": "http://steamcommunity.com/sharedfiles/filedetails/?id=549676314",
+        "CUP Terrains - Core": "http://steamcommunity.com/sharedfiles/filedetails/?id=583496184",
+        "CUP Terrains - Maps": "http://steamcommunity.com/sharedfiles/filedetails/?id=583544987",
+        "Specialist Military Arms (SMA) Version 2.7.1": "http://steamcommunity.com/sharedfiles/filedetails/?id=699630614",
+        "TF47 Launchers": "http://steamcommunity.com/sharedfiles/filedetails/?id=508476583",
+        "zam_showNames": "http://steamcommunity.com/sharedfiles/filedetails/?id=566942739",
+        "zam_uniforms": "http://steamcommunity.com/sharedfiles/filedetails/?id=1183572428",
+        "Jbad": "http://steamcommunity.com/sharedfiles/filedetails/?id=520618345",
+        "LYTHIUM": "http://steamcommunity.com/sharedfiles/filedetails/?id=909547724",
+        "ACEX": "http://steamcommunity.com/sharedfiles/filedetails/?id=708250744",
+        "ADV - ACE Splint": "http://steamcommunity.com/sharedfiles/filedetails/?id=1291442929",
+        "BackpackOnChest": "http://steamcommunity.com/sharedfiles/filedetails/?id=820924072",
+        "Ihantala": "http://steamcommunity.com/sharedfiles/filedetails/?id=1494115712"
+    },
+    "mod-lines":
+    {
+        "main": [
+            "CBA_A3", 
+            "CUP Weapons", 
+            "CUP Units", 
+            "ace", 
+            "CUP Vehicles", 
+            "ACRE2", 
+            "ALiVE", 
+            "cTab V2.2.1", 
+            "CUP ACE3 Compatibility Addon - Vehicles", 
+            "CUP ACE3 Compatibility Addon - Weapons",
+            "CUP Terrains - Core",
+            "CUP Terrains - Maps",
+            "Specialist Military Arms (SMA) Version 2.7.1",
+            "TF47 Launchers",
+            "zam_showNames",
+            "Jbad",
+            "LYTHIUM",
+            "ACEX",
+            "ADV - ACE Splint",
+            "BackpackOnChest",
+            "Ihantala"
+        ],
+        "main-lite": [
+            "CBA_A3", 
+            "CUP Weapons", 
+            "ace", 
+            "CUP Vehicles", 
+            "ACRE2", 
+            "ALiVE", 
+            "cTab V2.2.1", 
+            "CUP ACE3 Compatibility Addon - Weapons",
+            "Specialist Military Arms (SMA) Version 2.7.1",
+            "TF47 Launchers",
+            "zam_showNames",
+            "ACEX",
+            "ADV - ACE Splint",
+            "BackpackOnChest"
+        ]
+    }
+}
