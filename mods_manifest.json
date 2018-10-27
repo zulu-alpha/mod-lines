@@ -22,7 +22,14 @@
         "ACEX": "http://steamcommunity.com/sharedfiles/filedetails/?id=708250744",
         "ADV - ACE Splint": "http://steamcommunity.com/sharedfiles/filedetails/?id=1291442929",
         "BackpackOnChest": "http://steamcommunity.com/sharedfiles/filedetails/?id=820924072",
-        "Ihantala": "http://steamcommunity.com/sharedfiles/filedetails/?id=1494115712"
+        "Ihantala": "http://steamcommunity.com/sharedfiles/filedetails/?id=1494115712",
+        "Southeast Angola 1974 v1.1": "http://steamcommunity.com/sharedfiles/filedetails/?id=1446500688",
+        "MBG Buildings African Generic (Arma2 Legacy)": "http://steamcommunity.com/sharedfiles/filedetails/?id=962935279",
+        "ARMSCor 3.4.1": "http://steamcommunity.com/sharedfiles/filedetails/?id=714598902",
+        "African Factions for CUP": "http://steamcommunity.com/sharedfiles/filedetails/?id=810913902",
+        "Mogadishu": "http://steamcommunity.com/sharedfiles/filedetails/?id=749790006",
+        "3CB BAF Vehicles": "http://steamcommunity.com/sharedfiles/filedetails/?id=893349825",
+        "Camofaces": "http://steamcommunity.com/sharedfiles/filedetails/?id=346665985"
     },
     "mod-lines":
     {
@@ -64,6 +71,26 @@
             "ACEX",
             "ADV - ACE Splint",
             "BackpackOnChest"
+        ],
+        "recce": [
+            "CBA_A3",
+            "CUP Weapons",
+            "CUP Units",
+            "CUP Terrains - Core",
+            "ace",
+            "CUP Vehicles",
+            "Southeast Angola 1974 v1.1",
+            "ACRE2",
+            "CUP ACE3 Compatibility Addon - Vehicles",
+            "CUP ACE3 Compatibility Addon - Weapons",
+            "MBG Buildings African Generic (Arma2 Legacy)",
+            "zam_uniforms",
+            "Jbad",
+            "ARMSCor 3.4.1",
+            "African Factions for CUP",
+            "Mogadishu",
+            "3CB BAF Vehicles",
+            "Camofaces"
         ]
     }
 }
