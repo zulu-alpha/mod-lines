@@ -29,7 +29,9 @@
         "African Factions for CUP": "http://steamcommunity.com/sharedfiles/filedetails/?id=810913902",
         "Mogadishu": "http://steamcommunity.com/sharedfiles/filedetails/?id=749790006",
         "3CB BAF Vehicles": "http://steamcommunity.com/sharedfiles/filedetails/?id=893349825",
-        "Camofaces": "http://steamcommunity.com/sharedfiles/filedetails/?id=346665985"
+        "Camofaces": "http://steamcommunity.com/sharedfiles/filedetails/?id=346665985",
+        "Recce Challenge": "https://steamcommunity.com/sharedfiles/filedetails/?id=1555912648",
+        "Enhanced Movement": "https://steamcommunity.com/sharedfiles/filedetails/?id=333310405"
     },
     "mod-lines":
     {
@@ -90,7 +92,9 @@
             "African Factions for CUP",
             "Mogadishu",
             "3CB BAF Vehicles",
-            "Camofaces"
+            "Camofaces",
+            "Recce Challenge",
+            "Enhanced Movement"
         ]
     }
 }
