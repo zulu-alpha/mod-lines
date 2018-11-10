@@ -25,12 +25,12 @@
         "Ihantala": "http://steamcommunity.com/sharedfiles/filedetails/?id=1494115712",
         "Southeast Angola 1974 v1.1": "http://steamcommunity.com/sharedfiles/filedetails/?id=1446500688",
         "MBG Buildings African Generic (Arma2 Legacy)": "http://steamcommunity.com/sharedfiles/filedetails/?id=962935279",
-        "ARMSCor 3.4.1": "http://steamcommunity.com/sharedfiles/filedetails/?id=714598902",
+        "ARMSCor 3.4.6": "https://steamcommunity.com/workshop/filedetails/?id=714598902",
         "African Factions for CUP": "http://steamcommunity.com/sharedfiles/filedetails/?id=810913902",
         "Mogadishu": "http://steamcommunity.com/sharedfiles/filedetails/?id=749790006",
         "3CB BAF Vehicles": "http://steamcommunity.com/sharedfiles/filedetails/?id=893349825",
         "Camofaces": "http://steamcommunity.com/sharedfiles/filedetails/?id=346665985",
-        "[BW] Bush Wars v1.0": "https://steamcommunity.com/sharedfiles/filedetails/?id=1555912648",
+        "[BW] Bush Wars v1.1 (Recce Challenge Addition)": "https://steamcommunity.com/sharedfiles/filedetails/?id=1555912648",
         "Enhanced Movement": "https://steamcommunity.com/sharedfiles/filedetails/?id=333310405"
     },
     "mod-lines":
@@ -75,29 +75,21 @@
             "BackpackOnChest"
         ],
         "recce": [
-            "CBA_A3",
-            "CUP Weapons",
-            "CUP Units",
-            "CUP Terrains - Core",
+            "[BW] Bush Wars v1.1 (Recce Challenge Addition)",
             "ace",
-            "CUP Vehicles",
-            "Southeast Angola 1974 v1.1",
             "ACRE2",
+            "African Factions for CUP",
+            "ARMSCor 3.4.6",
+            "Camofaces",
+            "CBA_A3",
             "CUP ACE3 Compatibility Addon - Vehicles",
             "CUP ACE3 Compatibility Addon - Weapons",
-            "MBG Buildings African Generic (Arma2 Legacy)",
-            "zam_uniforms",
-            "Jbad",
-            "ARMSCor 3.4.1",
-            "African Factions for CUP",
-            "Mogadishu",
-            "3CB BAF Vehicles",
-            "Camofaces",
-            "[BW] Bush Wars v1.0",
-            "Enhanced Movement"
-        ],
-        "temp": [
-            "[BW] Bush Wars v1.0",
+            "CUP Units",
+            "CUP Vehicles",
+            "CUP Weapons",
+            "CUP Terrains - Core",
+            "Enhanced Movement",
+            "Southeast Angola 1974 v1.1",
             "3CB BAF Vehicles"
         ]
     }
