@@ -39,21 +39,6 @@
         "BackpackOnChest": "820924072"
     },
     "recce": {
-        "CBA_A3": "450814997", 
-        "ace": "463939057", 
-        "ACRE2": "751965892",
-        "CUP Weapons": "497660133",
-        "CUP Vehicles": "541888371",
-        "CUP Units": "497661914", 
-        "CUP Terrains - Core": "583496184",
-        "[BW] Bush Wars (Recce Challenge Addition)": "1555912648",
-        "African Factions for CUP": "810913902",
-        "ARMSCor": "714598902",
-        "Camofaces": "346665985",
-        "CUP ACE3 Compatibility Addon - Vehicles": "621650475",
-        "CUP ACE3 Compatibility Addon - Weapons": "549676314",
-        "Enhanced Movement": "333310405",
-        "Southeast Angola 1974": "1446500688",
-        "3CB BAF Vehicles": "893349825"
+        "[BW] Bush Wars (Recce Challenge Addition)": "1555912648"
     }
 }
