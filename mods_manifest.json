@@ -1,44 +1,12 @@
 {
     "main": {
-        "CBA_A3": "450814997", 
-        "CUP Weapons": "497660133", 
-        "CUP Units": "497661914", 
-        "ace": "463939057", 
-        "CUP Vehicles": "541888371",
-        "ACRE2": "751965892", 
-        "ALiVE": "620260972", 
-        "cTab": "871504836",
-        "CUP ACE3 Compatibility Addon - Vehicles": "621650475", 
-        "CUP ACE3 Compatibility Addon - Weapons": "549676314",
-        "CUP Terrains - Core": "583496184",
-        "CUP Terrains - Maps": "583544987",
-        "Specialist Military Arms (SMA) Version": "699630614",
-        "TF47 Launchers": "508476583",
-        "zam_showNames": "566942739",
-        "Jbad": "520618345",
-        "LYTHIUM": "909547724",
-        "ACEX": "708250744",
-        "ADV - ACE Splint": "1291442929",
-        "BackpackOnChest": "820924072",
-        "Ihantala": "1494115712",
-        "zam_uniforms": "1183572428"
+        "Zulu-Alpha - Main Mod Line": "1672220417"
     },
     "main-lite": {
-        "CBA_A3": "450814997", 
-        "CUP Weapons": "497660133", 
-        "ace": "463939057", 
-        "CUP Vehicles": "541888371", 
-        "ACRE2": "751965892", 
-        "ALiVE": "620260972", 
-        "cTab": "871504836", 
-        "CUP ACE3 Compatibility Addon - Weapons": "549676314",
-        "Specialist Military Arms (SMA) Version": "699630614",
-        "TF47 Launchers": "508476583",
-        "zam_showNames": "566942739",
-        "ACEX": "708250744",
-        "ADV - ACE Splint": "1291442929",
-        "BackpackOnChest": "820924072",
-        "zam_uniforms": "1183572428"
+        "Zulu-Alpha - Main Lite Mod Line": "1672250718"
+    },
+    "testing": {
+        "Zulu-Alpha - Test Mod Line": "1672258122"
     },
     "recce": {
         "[BW] Bush Wars (Recce Challenge Addition)": "1555912648",
