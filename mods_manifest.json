@@ -11,21 +11,5 @@
   "optional": {
     "Zulu-Alpha - Main Mod Line": "1672220417",
     "Zulu-Alpha - Optional Mod Line": "3018611445"
-  },
-  "atc": {
-    "@ace_atc": "2870610462",
-    "@ace_compat_rh_acc": "2657197373",
-    "@ace_particles": "2870611270",
-    "@ATC_CUP ACE3 Compatibility Addon - Weapons": "2657185761",
-    "@ATC_misc (ATC12)": "2789568998",
-    "@atc_spotlight": "2656714822",
-    "@chestpack(signed for ATC)": "1557696895",
-    "ACRE2": "751965892",
-    "atc_ace_compat_rhs_usf3": "2657184318",
-    "CBA_A3": "450814997",
-    "CUP Weapons": "497660133",
-    "Gruppe Adler Admin Messages": "2584716811",
-    "RH_acc": "1557712971",
-    "RHSUSAF": "843577117"
   }
 }
