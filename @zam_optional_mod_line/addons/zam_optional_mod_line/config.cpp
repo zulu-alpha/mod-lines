@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class zam_main_mod_line
+	class zam_optional_mod_line
 	{
 		units[] = {};
 		weapons[] = {};

@@ -1,4 +1,5 @@
-class CfgPatches {
+class CfgPatches
+{
 	class zam_main_mod_line
 	{
 		units[] = {};
@@ -7,8 +8,8 @@ class CfgPatches {
 		version = "0.1.0";
 		versionStr = "0.1.0";
 		versionDesc = "zam_main_mod_line";
-		versionAr[] = {0,1,0};
-		author[]= {"Zulu-Alpha"};
+		versionAr[] = {0, 1, 0};
+		author[] = {"Zulu-Alpha"};
 		authorUrl = "http://zulu-alpha.co.za/";
 	};
 };
